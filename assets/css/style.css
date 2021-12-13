@@ -4549,6 +4549,7 @@ textarea.form-control {
 .table-r {
   color: white;
   background-color: grey;
+  /* padding: 100px; */
 }
 .icon-value {
   width: 50px;
