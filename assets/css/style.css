@@ -1,5 +1,5 @@
-/* #f0edf6  => header and footer*/ 
-/* #2957b2  => header and footer*/ 
+/* #f0edf6  => header and footer*/
+/* #2957b2  => header and footer*/
 
 @import "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&amp;display=swap";
 @import "https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800&amp;display=swap";
@@ -2216,6 +2216,7 @@ textarea.form-control {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
+
   position: relative;
 }
 .logistics-solutions-img.bg-2 {
@@ -4559,4 +4560,7 @@ textarea.form-control {
 }
 .heading-projects {
   text-align: center;
+}
+.logistics-solutions-img-3 {
+  margin-left: 100px;
 }
